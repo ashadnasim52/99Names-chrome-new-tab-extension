@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "99 Names",
+    "version": "0.2.1",
+    "chrome_url_overrides": {
+        "newtab": "newpage.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

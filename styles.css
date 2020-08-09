@@ -1,0 +1,26 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Lateef&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+body {
+	font-family: 'Amiri', serif;
+
+	background-color: #222831;
+	color: #00adb5;
+	height: 90vh;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+}
+
+.first {
+	font-size: 50px;
+}
+
+.second {
+	font-size: 100px;
+	color: #eeeeee;
+}
+
+.third {
+	font-size: 30px;
+}
